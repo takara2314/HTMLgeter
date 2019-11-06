@@ -1,0 +1,14 @@
+C:\Users\TK\source\repos\HTMLgeter\HTMLgeter\bin\Debug\HTMLgeter.exe.config
+C:\Users\TK\source\repos\HTMLgeter\HTMLgeter\bin\Debug\HTMLgeter.exe
+C:\Users\TK\source\repos\HTMLgeter\HTMLgeter\bin\Debug\HTMLgeter.pdb
+C:\Users\TK\source\repos\HTMLgeter\HTMLgeter\obj\Debug\HTMLgeter.csprojAssemblyReference.cache
+C:\Users\TK\source\repos\HTMLgeter\HTMLgeter\obj\Debug\MainWindow.g.cs
+C:\Users\TK\source\repos\HTMLgeter\HTMLgeter\obj\Debug\App.g.cs
+C:\Users\TK\source\repos\HTMLgeter\HTMLgeter\obj\Debug\HTMLgeter_MarkupCompile.cache
+C:\Users\TK\source\repos\HTMLgeter\HTMLgeter\obj\Debug\HTMLgeter_MarkupCompile.lref
+C:\Users\TK\source\repos\HTMLgeter\HTMLgeter\obj\Debug\MainWindow.baml
+C:\Users\TK\source\repos\HTMLgeter\HTMLgeter\obj\Debug\HTMLgeter.g.resources
+C:\Users\TK\source\repos\HTMLgeter\HTMLgeter\obj\Debug\HTMLgeter.Properties.Resources.resources
+C:\Users\TK\source\repos\HTMLgeter\HTMLgeter\obj\Debug\HTMLgeter.csproj.GenerateResource.cache
+C:\Users\TK\source\repos\HTMLgeter\HTMLgeter\obj\Debug\HTMLgeter.exe
+C:\Users\TK\source\repos\HTMLgeter\HTMLgeter\obj\Debug\HTMLgeter.pdb
